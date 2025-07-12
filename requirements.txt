@@ -1,0 +1,19 @@
+gunicorn
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-groq
+# ipykernel
+# ipywidgets
+python-dotenv
+yfinance ## Yahoo Finance
+# agno
+# duckduckgo-search 
+# newspaper4k 
+# lxml_html_clean
+# pypdf
+# sentence-transformers
+
+# langchain_huggingface
+wikipedia
