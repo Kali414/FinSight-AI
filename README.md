@@ -32,7 +32,7 @@ Built with **LangGraph**, **Groq's LLMs**, **Streamlit**, and tools like **Yahoo
 
 1. ### Clone the repo 
    ```bash
-   git clone https://github.com/yourusername/FinSight-AI.git
+   git clone https://github.com/Kali414/FinSight-AI.git
    cd FinSight-AI
    ```
 
