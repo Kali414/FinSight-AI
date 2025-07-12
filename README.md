@@ -30,23 +30,22 @@ Built with **LangGraph**, **Groq's LLMs**, **Streamlit**, and tools like **Yahoo
 
 ## 🧑‍💻 How to Run Locally
 
-1. **Clone the repo**
+1. ### Clone the repo 
    ```bash
    git clone https://github.com/yourusername/FinSight-AI.git
    cd FinSight-AI
    ```
 
-2. **Install dependencies **
-
+2. ### Install dependencies
     ``` bash
     pip install -r requirements.txt
     ```
 
-3. ** Create a .env file and add your Groq API Key: **
+3. ### Create a .env file and add your Groq API Key: 
     ``` bash
     GROQ_API_KEY=your_groq_api_key_here
     ```
-4. ** Run the app **
+4. ### Run the app 
 
     ```bash
     streamlit run app.py
